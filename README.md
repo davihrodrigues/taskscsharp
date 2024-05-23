@@ -24,12 +24,12 @@ Then i receive mensage with current time
 #scenario 1:Verify is :Sorted by Name (Ascending)
 I start application
 Then list with name should be Ascending
-#scenario 2:Verify is :Sorted by Name (Descending)
 
+#scenario 2:Verify is :Sorted by Name (Descending)
 I start application
 Then list of name should be Descending
-#scenario 3:Verify is :Sorted by Price (Ascending)
 
+#scenario 3:Verify is :Sorted by Price (Ascending)
 I start application
 Then list with price should be Descending
 
