@@ -1,46 +1,23 @@
-# taskscsharp
+#I using test tool to management my tests, here is link:
+[https://app.qase.io/public/report/1ac7f773e20872a9da39e0f18153a8dfd97d310e](https://app.qase.io/run/DEVPROTEST/dashboard/1)
 
-#task1
+username:
+davi.haubricht@gmail.com 
+password:Devprotest123*
 
-#scenario 1: inform if user are logged
-I Start application
-Then i receive mensage "[INFO] User logged in"  
+***you need c# libs instaled to run this. and xunit to run automated unit test***
+go to directory what is cloned
 
-#scenario 2 : inform time when user are logged in
-I Start application
-Then i receive mensage with current time
+***first task***
+cd .\first-task\first-task\
+dotnet build
+dotnet run
 
-#scenario 3 :inform if have warnings and message of warning
-I Start application
-Then i receive mensage "[WARNING] Failed login attemp"  
+***run unit tests in first task***
+cd first-task/first-task.tests/
+dotnet test
 
-#scenario 4: inform time when user receive warning
-I Start application
-Then i receive mensage with current time
-
-
-#task2
-
-#scenario 1:Verify is :Sorted by Name (Ascending)
-I start application
-Then list with name should be Ascending
-
-#scenario 2:Verify is :Sorted by Name (Descending)
-I start application
-Then list of name should be Descending
-
-#scenario 3:Verify is :Sorted by Price (Ascending)
-I start application
-Then list with price should be Descending
-
-#scenario 4:Verify is :Sorted by Price (Descending)
-I start application
-Then list with price should be Descending
-
-#scenario 5:Verify is :Sorted by Stock (Ascending)
-I start application
-Then list with stock should be Ascendending
-
-#scenario 6:Verify is :Sorted by Stock (Descending)
-I start application
-Then list with stock should be Ascendending
+***second task***
+cd .\second-task\second-task\
+dotnet build
+dotnet run
