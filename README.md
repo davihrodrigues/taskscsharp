@@ -11,10 +11,10 @@ go to directory what is cloned
 
 #first task
 ##
-<tab><tab>code/  
-cd .\first-task\first-task\
+<tab><tab>code/ cd .\first-task\first-task\
 dotnet build
-dotnet run
+dotnet run 
+
 
 #run unit tests in first task#
 ##
