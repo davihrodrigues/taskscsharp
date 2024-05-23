@@ -1,6 +1,7 @@
 ﻿using System;
 using System.IO;
 
+
 namespace First_task
 {
     public abstract class LogBase
