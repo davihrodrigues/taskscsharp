@@ -10,21 +10,17 @@ password:Devprotest123*
 go to directory what is cloned
 
 #first task
-##
 <tab><tab>code/ cd .\first-task\first-task\
 dotnet build
 dotnet run 
 
 
 #run unit tests in first task#
-##
-<tab><tab>code/  
+ 
 cd first-task/first-task.tests/
 dotnet test
 
-#second task#
-##
-<tab><tab>code/  
+#second task# 
 cd .\second-task\second-task\
 dotnet build
 dotnet run
