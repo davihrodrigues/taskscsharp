@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Davi\\source\\repos\\second-task\\second-task\\second-task.csproj": {}
+    "C:\\Users\\Davi\\Documents\\GitHub\\taskscsharp\\second-task\\second-task\\second-task.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Davi\\source\\repos\\second-task\\second-task\\second-task.csproj": {
+    "C:\\Users\\Davi\\Documents\\GitHub\\taskscsharp\\second-task\\second-task\\second-task.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Davi\\source\\repos\\second-task\\second-task\\second-task.csproj",
+        "projectUniqueName": "C:\\Users\\Davi\\Documents\\GitHub\\taskscsharp\\second-task\\second-task\\second-task.csproj",
         "projectName": "second-task",
-        "projectPath": "C:\\Users\\Davi\\source\\repos\\second-task\\second-task\\second-task.csproj",
+        "projectPath": "C:\\Users\\Davi\\Documents\\GitHub\\taskscsharp\\second-task\\second-task\\second-task.csproj",
         "packagesPath": "C:\\Users\\Davi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Davi\\source\\repos\\second-task\\second-task\\obj\\",
+        "outputPath": "C:\\Users\\Davi\\Documents\\GitHub\\taskscsharp\\second-task\\second-task\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Davi\\AppData\\Roaming\\NuGet\\NuGet.Config",

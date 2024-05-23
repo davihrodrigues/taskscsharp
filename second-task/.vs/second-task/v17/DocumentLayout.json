@@ -1,17 +1,16 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Davi\\source\\repos\\second-task\\",
+  "WorkspaceRootPath": "C:\\Users\\Davi\\Documents\\GitHub\\taskscsharp\\second-task\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AB9DA00B-C5AF-4354-89B5-841E241697B5}|second-task.testing\\second-task.testing.csproj|c:\\users\\davi\\source\\repos\\second-task\\second-task.testing\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB9DA00B-C5AF-4354-89B5-841E241697B5}|second-task.testing\\second-task.testing.csproj|solutionrelative:second-task.testing\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{32B8E677-9302-4AFA-BB2F-86A04B2ACE43}|second-task\\second-task.csproj|c:\\users\\davi\\source\\repos\\second-task\\second-task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{32B8E677-9302-4AFA-BB2F-86A04B2ACE43}|second-task\\second-task.csproj|c:\\users\\davi\\documents\\github\\taskscsharp\\second-task\\second-task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{32B8E677-9302-4AFA-BB2F-86A04B2ACE43}|second-task\\second-task.csproj|solutionrelative:second-task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32B8E677-9302-4AFA-BB2F-86A04B2ACE43}|second-task\\second-task.csproj|c:\\users\\davi\\source\\repos\\second-task\\second-task\\second-task.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Davi\\source\\repos\\second-task\\second-task.testing\\UnitTest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32B8E677-9302-4AFA-BB2F-86A04B2ACE43}|second-task\\second-task.csproj|c:\\users\\davi\\documents\\github\\taskscsharp\\second-task\\second-task\\second-task.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{32B8E677-9302-4AFA-BB2F-86A04B2ACE43}|second-task\\second-task.csproj|solutionrelative:second-task\\second-task.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -22,7 +21,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,39 +29,36 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "UnitTest1.cs",
               "DocumentMoniker": "C:\\Users\\Davi\\source\\repos\\second-task\\second-task.testing\\UnitTest1.cs",
-              "RelativeDocumentMoniker": "second-task.testing\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\second-task\\second-task.testing\\UnitTest1.cs",
               "ToolTip": "C:\\Users\\Davi\\source\\repos\\second-task\\second-task.testing\\UnitTest1.cs",
-              "RelativeToolTip": "second-task.testing\\UnitTest1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAKAAAA",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\second-task\\second-task.testing\\UnitTest1.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T00:45:20.102Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-23T00:45:20.102Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "second-task",
-              "DocumentMoniker": "C:\\Users\\Davi\\source\\repos\\second-task\\second-task\\second-task.csproj",
+              "Title": "second-task.csproj",
+              "DocumentMoniker": "C:\\Users\\Davi\\Documents\\GitHub\\taskscsharp\\second-task\\second-task\\second-task.csproj",
               "RelativeDocumentMoniker": "second-task\\second-task.csproj",
-              "ToolTip": "C:\\Users\\Davi\\source\\repos\\second-task\\second-task\\second-task.csproj",
+              "ToolTip": "C:\\Users\\Davi\\Documents\\GitHub\\taskscsharp\\second-task\\second-task\\second-task.csproj",
               "RelativeToolTip": "second-task\\second-task.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-23T00:43:34.579Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-23T00:43:34.579Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Davi\\source\\repos\\second-task\\second-task\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Davi\\Documents\\GitHub\\taskscsharp\\second-task\\second-task\\Program.cs",
               "RelativeDocumentMoniker": "second-task\\Program.cs",
-              "ToolTip": "C:\\Users\\Davi\\source\\repos\\second-task\\second-task\\Program.cs",
+              "ToolTip": "C:\\Users\\Davi\\Documents\\GitHub\\taskscsharp\\second-task\\second-task\\Program.cs",
               "RelativeToolTip": "second-task\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAHAAAA",
+              "ViewState": "AQIAACIAAAAAAAAAAAAcwDMAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-23T00:39:05.62Z",
               "EditorCaption": ""

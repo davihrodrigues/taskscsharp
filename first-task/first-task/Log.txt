@@ -1,0 +1,2 @@
+[2024-05-23 09:44:46] [INFO] User logged in
+[2024-05-23 09:44:46] [WARNING] Failed login attempt

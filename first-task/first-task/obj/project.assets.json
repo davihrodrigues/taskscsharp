@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Davi\\source\\repos\\first-task\\first-task\\first-task.csproj",
+      "projectUniqueName": "C:\\Users\\Davi\\Documents\\GitHub\\taskscsharp\\first-task\\first-task\\first-task.csproj",
       "projectName": "first-task",
-      "projectPath": "C:\\Users\\Davi\\source\\repos\\first-task\\first-task\\first-task.csproj",
+      "projectPath": "C:\\Users\\Davi\\Documents\\GitHub\\taskscsharp\\first-task\\first-task\\first-task.csproj",
       "packagesPath": "C:\\Users\\Davi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Davi\\source\\repos\\first-task\\first-task\\obj\\",
+      "outputPath": "C:\\Users\\Davi\\Documents\\GitHub\\taskscsharp\\first-task\\first-task\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Davi\\AppData\\Roaming\\NuGet\\NuGet.Config",
