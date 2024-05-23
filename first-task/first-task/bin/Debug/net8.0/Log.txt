@@ -1,0 +1,6 @@
+[2024-05-22 20:36:14] [INFO] User logged in
+[2024-05-22 20:36:14] [WARNING] Failed login attempt
+[2024-05-22 20:36:55] [INFO] User logged in
+[2024-05-22 20:36:55] [WARNING] Failed login attempt
+[2024-05-22 20:43:28] [INFO] User logged in
+[2024-05-22 20:43:28] [WARNING] Failed login attempt
