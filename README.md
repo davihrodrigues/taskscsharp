@@ -1,6 +1,6 @@
 <pre>
 I using test tool to management my tests, here is link:
-(https://app.qase.io/run/DEVPROTEST/dashboard/1)
+https://app.qase.io/run/DEVPROTEST/dashboard/1
 
 username:
 davi.haubricht@gmail.com 
