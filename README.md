@@ -2,9 +2,7 @@
 I'm using test tool to management my tests, here is link:
 https://app.qase.io/run/DEVPROTEST/dashboard/1
 
-username:
-davi.haubricht@gmail.com 
-password:Devprotest123*
+
 
 **you need c# libs instaled to run this. and xunit to run automated unit test**
 go to directory what is cloned
